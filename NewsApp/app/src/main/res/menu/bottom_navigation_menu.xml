@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/headlinesFragments"
+        android:title="Headlines"
+        android:icon="@drawable/baseline_lang"/>
+    <item
+        android:id="@+id/favouritesFragments"
+        android:title="@string/favourites"
+        android:icon="@drawable/baseline_fav"/>
+    <item
+        android:id="@+id/searchFragments"
+        android:title="@string/search"
+        android:icon="@drawable/baseline_search"/>
+</menu>

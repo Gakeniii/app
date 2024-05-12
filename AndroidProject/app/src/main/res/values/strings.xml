@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidProject</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_box">BoxActivity</string>
+    <string name="title_activity_scroll">ScrollActivity</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="title_activity_top_bar">TopBar</string>
+    <string name="title_activity_indicators">IndicatorsActivity</string>
+    <string name="title_activity_bottom_app">BottomAppActivity</string>
+    <string name="title_activity_assigment">Assigment</string>
+</resources>
